@@ -1,7 +1,76 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022-05-21",
+      "居酒屋",
+      "",
+      "35.696845",
+      "139.785182",
+      "鉄板焼 香味由",
+      "おいしい、あみだすの胃袋を支えてくれています",
+      "",
+      "kamiyuteppan",
+      "https://sites.google.com/site/kamiyuteppan/"
+    ],
+    [
+      "2022-05-21",
+      "お寿司",
+      "",
+      "35.697152",
+      "139.784066",
+      "鮨處 あじま 浅草橋",
+      "おいしい https://mono96.jp/delicious/43397/",
+      "ajima_asakusabashi"
+    ],
+    [
+      "",
+      "スペイン料理",
+      "",
+      "35.698052",
+      "139.783941",
+      "スペイン食堂 エルペケーニャ",
+      "",
+      "",
+      "",
+      "https://elpequena.owst.jp/"
+    ],
+    [
+      "",
+      "中華",
+      "",
+      "35.696548",
+      "139.784583",
+      "上海ブラッセリー",
+      "",
+      "",
+      "",
+      "http://www.shanbra.jp/"
+    ],
+    [
+      "",
+      "居酒屋",
+      "",
+      "35.69605",
+      "139.780146",
+      "さん葉か",
+      "https://todoku.gourmet-maruichi.com/",
+      "sanbaka.kappo",
+      "",
+      "https://sanbaka.gourmet-maruichi.com/"
+    ]
+  ]
 }
